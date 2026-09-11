@@ -1,24 +1,24 @@
 # Energy Complex
-_Auto-updated 2026-09-10. Latest close: 2026-09-10. Situational awareness, not a forecast._
+_Auto-updated 2026-09-11. Latest close: 2026-09-11. Situational awareness, not a forecast._
 
 ## Where the complex closed
 
 | instrument | last | change | 30d vol |
 |---|---:|---:|---:|
-| WTI crude (USD/bbl) | 103.69 | +7.95% | - |
-| Brent crude (USD/bbl) | 108.73 | +7.43% | 3.0% |
-| TTF gas (EUR/MWh) | 81.96 | +3.43% | 3.5% |
-| Henry Hub gas (USD/MMBtu) | 2.84 | +0.60% | - |
+| WTI crude (USD/bbl) | 99.99 | -2.43% | - |
+| Brent crude (USD/bbl) | 104.42 | -2.98% | 2.9% |
+| TTF gas (EUR/MWh) | 81.50 | -0.67% | 3.4% |
+| Henry Hub gas (USD/MMBtu) | 2.82 | -0.49% | - |
 
 ## The spreads that matter
 
-**Brent - WTI: $5.04/bbl.** The transatlantic crude premium. It widens when seaborne (Brent) supply is threatened but US (WTI) supply is not - so a widening spread is a geopolitical risk signal, not a demand signal.
+**Brent - WTI: $4.43/bbl.** The transatlantic crude premium. It widens when seaborne (Brent) supply is threatened but US (WTI) supply is not - so a widening spread is a geopolitical risk signal, not a demand signal.
 
 **TTF / Henry Hub ratio: 28.9x.** European gas costs this many times US gas (before unit conversion). The wider it goes, the stronger the pull on US LNG cargoes toward Europe. This ratio is the reason US LNG exists.
 
 ## Divergences worth noticing
 
-Oil and gas are moving together, which points to a **broad energy move** (macro, risk sentiment, or a shared supply shock) rather than a fuel-specific one.
+No strong divergence today.
 
 ## What this is and is not
 
